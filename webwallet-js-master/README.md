@@ -1,4 +1,4 @@
-![image](https://cdn.qwertycoin.org/images/press/other/qwc-github-3.png)
+![image](https://github.com/ProjectFTS/FTS_LOGO/blob/master/logo.png)
 #### Master Build Status
 [![Build Status](https://travis-ci.org/qwertycoin-org/webwallet-js.svg?branch=master)](https://travis-ci.org/qwertycoin-org/webwallet-js) [![Build status](https://ci.appveyor.com/api/projects/status/rvsgv9p8wbolxfkt/branch/master?svg=true)](https://ci.appveyor.com/project/Qwertycoin/webwallet-js-iiaw6/branch/master)
 
